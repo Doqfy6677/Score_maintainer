@@ -1,0 +1,3 @@
+@echo off
+echo Starting Cricket Score Tracker...
+python app.py
